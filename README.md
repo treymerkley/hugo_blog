@@ -1,2 +1,2 @@
-# hugo_blog
+# Hugo Blog
 the original source of the main blog
